@@ -6,3 +6,4 @@ const ingredients = [
   'Herbs',
   'Condiments',
 ];
+const ingredientsEl = document.querySelector('.js-item');
