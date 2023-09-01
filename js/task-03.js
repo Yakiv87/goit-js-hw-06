@@ -19,4 +19,4 @@ const markup = images.map(
 ).join('');
 
 gallery.insertAdjacentHTML('beforeend', markup);
-console.log(gallery);
+console.dir(markup);
