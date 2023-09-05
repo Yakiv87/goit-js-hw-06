@@ -15,6 +15,6 @@ function handelSubmit(event) {
   
       console.log(formData);
   
-      form.reset();
+      feedbackForm.reset();
 };
 }
