@@ -12,9 +12,7 @@ function handelSubmit(event) {
         email: email,
         password: password
       };
-  
-      console.log(formData);
-  
-      feedbackForm.reset();
+        console.log(formData);
+        feedbackForm.reset();
 };
 }
